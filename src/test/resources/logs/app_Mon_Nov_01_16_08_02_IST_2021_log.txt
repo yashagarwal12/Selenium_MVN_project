@@ -1,0 +1,2 @@
+INFO    2021-11-01 16:08:02,115 [main] testcases.TestLogs  - This is the information log
+ERROR   2021-11-01 16:08:02,118 [main] testcases.TestLogs  - Here the error logs will be printed
